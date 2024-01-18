@@ -1,0 +1,14 @@
+source,rel_name,target
+@prefix,xsd:,<http://www.w3.org/2001/XMLSchema#> .
+@prefix,rdfs:,<http://www.w3.org/2000/01/rdf-schema#> .
+@prefix,rdf:,<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix,dbo:,<http://dbpedia.org/ontology/> .
+@prefix,dct:,<http://purl.org/dc/terms/> .
+@prefix,owl:,<http://www.w3.org/2002/07/owl#> .
+@prefix,wd:,<https://www.wikidata.org/wiki/> .
+@prefix,lexid-s:,<https://w3id.org/lex-id/schema/> .
+@prefix,lexid:,<https://w3id.org/lex-id/data/> .
+
+
+,,
+,,
